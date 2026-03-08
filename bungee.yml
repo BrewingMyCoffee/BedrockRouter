@@ -1,0 +1,5 @@
+name: BedrockRouter
+version: 1.0
+main: com.bedrockrouter.BedrockRouter
+author: BedrockRouter
+description: Routes Bedrock players to a specific server on join
